@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "question": "About Guru Nanak College",
+      "answer": "The Guru Nanak College was established in the year 1971 as a Unit of Guru Nanak Educational Society to mark the 500th birthday of the great Shri Guru Nanak Devji. founder of the Sikh Religion. The objective of the college is to spread the ideals of universal brotherhood, oneness of God, communal harmony and welfare to all communities. The College is being run as a minority community college within the meaning of articles 29 and 30 of the Indian Constitution"
+    },
+    {
+      "id": 2,
+      "question": "Highlights of college",
+      "answer": "Affiliated to the University of Madras Recognized by the University Grants Commission - granted Sec. 12B and 2F status. Granted Academic Autonomy by the UGC in 2015. Re-accredited at A Grade by NAAC in 2013 and 2018. Functions in 2 shifts – Shift I is aided by the Govt. of Tamil Nadu & Shift II is Self-financing. MBA and MCA Programmes are also recognized by AICTE. Received DBT-Star College Scheme in 2018. Ranked by NIRF, The Week and India Today"
+    },
+    {
+      "id": 3,
+      "question": "What are the languages offered",
+      "answer": "There are five languages.They are: Foundation English. Tamil,Hindi,Sanskrit,French"
+    },
+    {
+      "id": 4,
+      "question": "How to apply through online",
+      "answer": "Dear Applicant. Welcome to Guru Nanak College (Autonomous), Online Application Portal for the Academic Year 2020-21. For any queries Email: enquiry@gurunanakcollege.edu.in.Contact No: 044-22451746,22444621"
+    },
+    {
+      "id": 5,
+      "question": "History of Information Technology",
+      "answer": "Recognizing the growing demand for professionals with  Big data skills and increasing job opportunities for Data Analytics and Data Scientists , an U.G. programme in Information Technology have been  started in the year 2018"
+    },
+    {
+      "id": 6,
+      "question": "Scope of Information Technology",
+      "answer": "It offers a 3 year programme for students interested in pursuing a Post Graduate programme, in MCA , M.SC(IT) , M.SC(CS) , M.B.A or to take up jobs in IT industries. Syllabus designed to meet the recent trends in current Industry"
+    },
+    {
+      "id": 7,
+      "question": "Syllabus Structure of B.Sc(Information Technology)",
+      "answer": "The department has qualified faculty who teach specialized areas like  Java , Python Programming , Big Data Analytics , R Programming , No SQL, MongoDB , Information Security , Cloud Computing and Mobile Computing"
+    },
+    {
+      "id": 8,
+      "question": "Eligibility Criteria for Admission",
+      "answer": "Eligibility Criteria :  Pass in +2 with Computer Science / Mathematics / Statistics  / Business  Mathematics"
+    },
+    {
+      "id": 9,
+      "question": "What Shift does information Technology comes under",
+      "answer": "Bsc(Information Technology) Comes under Shift 2 Which is self financed course. but the timings will be 8:30AM till 1:30AM"
+    },
+    {
+      "id": 10,
+      "question": "What is the fee Structure of B.Sc(Information Technology)",
+      "answer": "The fee Structure of B.Sc(Information Technology) is Rs:54075 per annum"
+    },
+    {
+      "id": 11,
+      "question": "What is the fee Structure of B.Sc(computer science)",
+      "answer": "The fee Structure of B.Sc(Computer Science) is Rs:58075 per annum"
+    },
+    {
+      "id":12 ,
+      "question": "What is the fee Structure of B.C.A",
+      "answer": "The fee Structure of B.C.A is Rs:60000 per annum"
+    },
+    {
+      "id": 13,
+      "question": "What is the fee Structure of B.Sc(Information System Management)",
+      "answer": "The fee Structure of B.Sc(Information System Management) is Rs:53075 per annum"
+    },
+    {
+      "id": 14,
+      "question": "What shift does B.Sc(Information System Management) comes under?",
+      "answer": "B.Sc(Information System Management) comes under the shift 2 it's a self financed Course and the timings will be 8.30AM to 1.30PM"
+    },
+    {
+      "id": 15,
+      "question": "What shift does B.Sc(Computer Science) comes under?",
+      "answer": "B.Sc(Computer Science) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM "
+    },
+    {
+      "id": 16,
+      "question": "What  shift does B.C.A comes under?",
+      "answer": "B.C.A comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM" 
+    }
+    
+  ]
