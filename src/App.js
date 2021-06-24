@@ -5,9 +5,6 @@ import { Faq } from './Faq';
 import alanBtn from '@alan-ai/alan-sdk-web';
 import Logo from './Logo.png';
 import "./styles.css";
-
-
-
 import { scroller } from 'react-scroll';
 
 export const App = () => {
