@@ -18,7 +18,7 @@ export const Faq = ({ index, setIndex, currentFaqId, setCurrentFaqId }) => {
     <Flex direction="column" p={4}>
     
       <Box mb="8">
-        <Heading size="md">FAQ about: B.Sc(I.T), B.Sc(C.S), B.Com(ISM), B.C.A</Heading>
+        <Heading size="md">FAQ(Frequently Asked Questions))</Heading>
         
       </Box>
       <Accordion allowToggle index={index}>
