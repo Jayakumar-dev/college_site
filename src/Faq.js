@@ -24,7 +24,7 @@ export const Faq = ({ index, setIndex, currentFaqId, setCurrentFaqId }) => {
       <Accordion allowToggle index={index}>
         {FAQ_LIST.map(faq => (
           <AccordionItem key={faq.id} name={`accordion-button-${faq.id}`}>
-            <AccordionButton
+            <AccordionButton _expanded={{ bg: "blue", color: "white"}}
               onClick={() => {
                 
                 if (faq.id === currentFaqId) {

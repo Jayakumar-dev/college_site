@@ -2,7 +2,7 @@
     {
       "id": 1,
       "question": "About Guru Nanak College",
-      "answer": "The Guru Nanak College was established in the year 1971 as a Unit of Guru Nanak Educational Society to mark the 500th birthday of the great Shri Guru Nanak Devji. founder of the Sikh Religion. The objective of the college is to spread the ideals of universal brotherhood, oneness of God, communal harmony and welfare to all communities. The College is being run as a minority community college within the meaning of articles 29 and 30 of the Indian Constitution"
+      "answer": "The Guru Nanak College was established in the year 1971 as a Unit of Guru Nanak Educational Society to mark the 500th birthday of the great Shri Guru Nanak Devji. founder of the Sikh Religion. The objective of the college is to spread the ideals of universal brotherhood, oneness of God, communal harmony and welfare to all communities. The College is being run as a minority community college within the meaning of articles 29 and 30 of the Indian Constitution.For futher information visit www.gurunanakcollege.edu.in or Email us at enquiry2021@gurunanakcollege.edu.in"
     },
     {
       "id": 2,
@@ -12,12 +12,12 @@
     {
       "id": 3,
       "question": "What are the languages offered",
-      "answer": "There are five languages.They are: Foundation English. Tamil,Hindi,Sanskrit,French"
+      "answer": "There are five languages.They are: Foundation English. Tamil,Hindi,Sanskrit,French."
     },
     {
       "id": 4,
       "question": "How to apply through online",
-      "answer": "Dear Applicant. Welcome to Guru Nanak College (Autonomous), Online Application Portal for the Academic Year 2020-21. For any queries Email: enquiry@gurunanakcollege.edu.in.Contact No: 044-22451746,22444621"
+      "answer": "Dear Applicant. Welcome to Guru Nanak College (Autonomous), Online Application Portal for the Academic Year 2020-21. For any queries Email: enquiry2021@gurunanakcollege.edu.in. Contact No: 044-22451746,22444621"
     },
     {
       "id": 5,
@@ -47,22 +47,22 @@
     {
       "id": 10,
       "question": "What is the fee Structure of B.Sc(Information Technology)",
-      "answer": "The fee Structure of B.Sc(Information Technology) is Rs:54075 per annum"
+      "answer": "The fee Structure of B.Sc(Information Technology) is Rs:54075 per annum the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
     },
     {
       "id": 11,
       "question": "What is the fee Structure of B.Sc(computer science)",
-      "answer": "The fee Structure of B.Sc(Computer Science) is Rs:58075 per annum"
+      "answer": "The fee Structure of B.Sc(Computer Science) is Rs:58075 per annum the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
     },
     {
       "id":12 ,
       "question": "What is the fee Structure of B.C.A",
-      "answer": "The fee Structure of B.C.A is Rs:60000 per annum"
+      "answer": "The fee Structure of B.C.A is Rs:60000 per annum the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
     },
     {
       "id": 13,
       "question": "What is the fee Structure of B.Com(Information System Management)",
-      "answer": "The fee Structure of B.Com(Information System Management) is Rs:53075 per annum"
+      "answer": "The fee Structure of B.Com(Information System Management) is Rs:53075 per annum the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
     },
     {
       "id": 14,
@@ -78,6 +78,246 @@
       "id": 16,
       "question": "What  shift does B.C.A comes under?",
       "answer": "B.C.A comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM" 
+    },
+    {
+      "id":17,
+      "question":"Programmes Offered in Shift-1 are",
+      "answer":"B.A. (Economics),B. A. (Defence and Strategic studies),B.Sc. (Mathematics),B.Sc. (Physics),B.Sc. (Chemistry),B.Sc. (Plant Biology & Plant Biotechnology),B.Sc. (Advanced Zoology and Biotechnology),B.Com. (General),B.Com. (Corporate Secretaryship)"
+    },
+    {
+      "id":18,
+      "question":"Programmes Offered in Shift-2 are",
+      "answer":"B.B.A.,B.C.A.,B.Sc. (Computer Science),B.Sc. (Visual Communication),B.Com. (General),B.Com. (Corporate Secretaryship),B.Com. (Accounting & Finance),B.Com. (Honours),B.Com. (Bank Management),B.Com. (Marketing Management),B.Com. (Information System Management),B.A. (English),B.Sc. (Biotechnology),B.Sc. (Information Technology),B.Sc. (Data Analytics),B.Com. (Computer Applications),B.Com. (Professional Accounting),B. A. (Defence and Strategic studies),B.A. (Sociology) "
+    },
+    {
+      "id":19,
+      "question":"Eligibility Criteria for BCA (Computer Applications)" ,
+      "answer":"Computer Science, Mathematics / Statistics / Business Mathematics"
+    },
+    {
+      "id":20,
+      "question":"Eligibility Criteria for B.Sc. (Computer Science) ",
+      "answer":"Computer Science, Mathematics / Statistics / Business Mathematics"
+    },
+    {
+      "id":21,
+      "question":"Eligibility Criteria for B.Com. (Information System Mgmt.)",
+      "answer":"Accountancy, Commerce / Business studies & Computer Science"
+    },
+    {
+      "id":22,
+      "question":"Eligibility Criteria for B.Com. (Computer Applications)",
+      "answer":"Accountancy, Commerce / Business Studies & Mathematics / Statistics / Business Mathematics / Computer Science"
+    },
+    {
+      "id":23,
+      "question":"Eligibility Criteria for B.Sc. (Data Analytics)",
+      "answer":"Computer Science / Mathematics / Statistics / Business Mathematics"
+    },
+    {
+      "id":24,
+      "question":"Eligibility Criteria for B.A. (Economics)",
+      "answer":"Economics, Accountancy & Commerce / Business Studies "
+    },
+    {
+      "id":25,
+      "question":"Eligibility Criteria for B.A. (Defence & Strategic Studies)",
+      "answer":"Any Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":26,
+      "question":"Eligibility Criteria for B.A. (English) ",
+      "answer":"Any Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":27,
+      "question":"Eligibility Criteria for B.A. (Sociology) ",
+      "answer":"Any Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":28,
+      "question":"Eligibility Criteria for B.Sc. (Mathematics)",
+      "answer":"Mathematics, Physics & Chemistry"
+    },
+    {
+      "id":29,
+      "question":"Eligibility Criteria for B.Sc. (Physics)",
+      "answer":"Physics, Mathematics & Chemistry"
+    },
+    {
+      "id":30,
+      "question":"Eligibility Criteria for B.Sc. (Chemistry)",
+      "answer":"Chemistry, Mathematics & Physics"
+    },
+    {
+      "id":31,
+      "question":"Eligibility Criteria for B.Sc. (Plant Biology & Plant Biotechnology)",
+      "answer":"Botany, Zoology, Biology & Chemistry"
+    },
+    {
+      "id":32,
+      "question":"Eligibility Criteria for B.Sc. (Advanced Zoology & Biotechnology)",
+      "answer":"Zoology, Botany, Biology & Chemistry"
+    },
+    {
+      "id":33,
+      "question":"Eligibility Criteria for B.Sc. (Biotechnology)",
+      "answer":"Any Science Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":34,
+      "question":"Eligibility Criteria for B.Sc. (Visual Communication)",
+      "answer":"Any Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":35,
+      "question":"Eligibility Criteria for BBA (Business Administration)",
+      "answer":"Any Group in Plus Two (or) Equivalent Examination"
+    },
+    {
+      "id":36,
+      "question":"Eligibility Criteria for B.Com. (Bank Management)",
+      "answer":"Accountancy, Commerce / Business Studies"
+    },
+    {
+      "id":37,
+      "question":"Eligibility Criteria for B.Com. (Marketing Management)",
+      "answer":"Accountancy, Commerce / Business Studies"
+    },
+    {
+      "id":38,
+      "question":"Eligibility Criteria for B.Com. (General)",
+      "answer":"Accountancy, Commerce / Business Studies & Economics"
+    },
+    {
+      "id":39,
+      "question":"Eligibility Criteria for B.Com. (Corporate Secretaryship)",
+      "answer":"Accountancy, Commerce / Business Studies"
+    },
+    {
+      "id":40,
+      "question":"Eligibility Criteria for B.Com. (Accounting and Finance)",
+      "answer":"Accountancy, Commerce / Business Studies"
+    },
+    {
+      "id":41,
+      "question":"Eligibility Criteria for B.Com. (Honours)",
+      "answer":"Accountancy, Commerce / Business studies & Mathematics / Business Mathematics (Pass % in Major subjects should be above 75%)"
+    },
+    {
+      "id":42,
+      "question":"Eligibility Criteria for B.Com. (Professional Accounting)",
+      "answer":"Accountancy, Commerce / Business studies & Mathematics / Business Mathematics (Pass % in Major subjects should be above 75%)"
+    },
+    {
+      "id":43,
+      "question":"What is the fee Structure of B.A. (Economics)?",
+      "answer":"The fee Structure of B.A. (Economics) is Rs.19430 per annum and the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":44,
+      "question":"What is the fee Structure of B. A. (Defence and Strategic studies)?",
+      "answer":"The fee Structure of B. A. (Defence and Strategic studies) is Rs.19430 per annum and the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":45,
+      "question":"What is the fee Structure of B.Sc. (Mathematics)?",
+      "answer":"The fee Structure of B.Sc. (Mathematics) is Rs.22080 per annum and the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":46,
+      "question":"What is the fee Structure of B.Sc. (Physics)?",
+      "answer":"The fee Structure of B.Sc. (Physics) is Rs.22680 per annum and the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":47,
+      "question":"What is the fee Structure of B.Sc. (Chemistry)? ",
+      "answer":"The fee Structure of B.Sc. (Chemistry) is Rs.22680 per annum and the Fee Structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":48,
+      "question":"What is the fee structure of B.Sc. (Plant Biology & Plant Biotechnology)",
+      "answer":"The fee structure of B.Sc. (Plant Biology & Plant Biotechnology) is Rs.22630 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":49,
+      "question":"What is the fee structure of B.Sc. (Advanced Zoology and Biotechnology)",
+      "answer":"The fee structure of B.Sc. (Advanced Zoology and Biotechnology) is Rs.22630 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+     {
+      "id":50,
+      "question":"What is the fee structure of B.Com. (General)",
+      "answer":"The fee structure of B.Com (General) is Rs.20630 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    }, 
+    {
+      "id":51,
+      "question":"What is the fee structure of B.Com. (Corporate Secretaryship)",
+      "answer":"The fee structure of B.Com (Corporate Secretaryship) is Rs.20630 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    }, 
+    {
+      "id":52,
+      "question":"What is the fee structure of B.B.A ?",
+      "answer":"The fee structure of B.B.A is Rs.43075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":53,
+      "question":"What is the fee structure of B.Sc. (Visual Communication)?",
+      "answer":"The fee structure of B.Sc (Visual Communication) is Rs.83075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":54,
+      "question":"What is the fee structure of B.Com. (General)? Shift-2",
+      "answer":"The fee structure of B.Com. (General) is Rs.53075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":55,
+      "question":"What is the fees structure of B.Com. (Corporate Secretaryship)?",
+      "answer":"The fees structure of B.Com. (Corporate Secretaryship) is Rs.53075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":56,
+      "question":"What is the fee Structure of B.Com. (Accounting & Finance)?",
+      "answer":"The fee Structure of B.Com. (Accounting & Finance) is Rs.53075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":57,
+      "question":"What is the fee structure of B.Com. (Honours)?",
+      "answer":"The fee structure of B.Com. (Honours) is Rs.61425 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":58,
+      "question":"What is the fee structure of B.Com. (Bank Management)?",
+      "answer":"The fee structure of B.Com. (Bank Management) is Rs.46075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":59,
+      "question":"What is the fee structure of B.Com. (Marketing Management)?",
+      "answer":"The fee structure of B.Com. (Marketing Management) is Rs.46075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":60,
+      "question":"What is the fee structure of B.A. (English)?",
+      "answer":"The fee structure of B.A. (English) is Rs.40075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":61,
+      "question":"What is the fee structure of B.Sc. (Biotechnology)?",
+      "answer":"The fee structure of B.Sc. (Biotechnology) is Rs.38075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":62,
+      "question":"What is the fee structure of B.Com. (Professional Accounting)?",
+      "answer":"The fee structure of B.Com. (Professional Accounting) is Rs.60000 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":63,
+      "question":"What is the fee structure of B. A. (Defence and Strategic studies)?",
+      "answer":"The fee structure of B. A. (Defence and Strategic studies) is Rs.35000 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":64,
+      "question":"What is the fee structure of B.A. (Sociology)?",
+      "answer":"The fee structure of B. A. (Sociology) is Rs.40075 per annum and the fee structure includes Govt. fees, college fees, two semester exam fees, bridge course and skill development fees."
     }
     
   ]
