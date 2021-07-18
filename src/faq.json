@@ -318,6 +318,117 @@
       "id":64,
       "question":"What is the fee structure of B.A. (Sociology)?",
       "answer":"The fee structure of B. A. (Sociology) is Rs.40075 per annum and the fee structure includes  college fees, two semester exam fees, bridge course and skill development fees."
+    },
+    {
+      "id":65,
+      "question":"What shift does B.A. (Economics) comes under?",
+      "answer":"B.A. (Economics) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":66,
+      "question":"What  shift does B. A. (Defence and Strategic studies)  comes under?",
+      "answer":"B. A. (Defence and Strategic studies) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":67,
+      "question":"What  shift does B.Sc. (Mathematics) comes under?",
+      "answer":"B.Sc. (Mathematics) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":68,
+      "question":"What  shift does B.Sc. (Physics) comes under?",
+      "answer":" B.Sc. (Physics) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":69,
+      "question":"What  shift does B.Sc. (Chemistry) comes under?",
+      "answer":"B.Sc. (Chemistry) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":70,
+      "question":"What  shift does B.Sc. (Plant Biology & Plant Biotechnology) comes under?",
+      "answer":"B.Sc. (Plant Biology & Plant Biotechnology) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":71,
+      "question":"What  shift does B.Sc. (Advanced Zoology and Biotechnology) comes under?",  
+      "answer":"B.Sc. (Advanced Zoology and Biotechnology) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":72,
+      "question":"What  shift does B.Com. (General)shift 1 comes under?",  
+      "answer":"B.Com. (General) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":73,
+      "question":"What  shift does B.Com. (Corporate Secretaryship) comes under?",  
+      "answer":"B.Com. (Corporate Secretaryship) comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":74,
+      "question":"What  shift does B.B.A comes under?",  
+      "answer":"B.B.A comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+    {
+      "id":75,
+      "question":"What  shift does B.Sc. (Visual Communication)  comes under?",  
+      "answer":"B.Sc. (Visual Communication) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+
+    {
+      "id":76,
+      "question":"What  shift does B.Com. (Corporate Secretaryship) shift 2 comes under?",  
+      "answer":"B.Com. (Corporate Secretaryship) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+    {
+      "id":77,
+      "question":"What  shift does B.Com. (Accounting & Finance)  comes under?",  
+      "answer":"B.Com. (Accounting & Finance) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+    {
+      "id":78,
+      "question":"What  shift does B.Com. (Honours)  comes under?",  
+      "answer":"B.Com. (Honours) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+
+    {
+      "id":79,
+      "question":"What  shift does B.Com. (Bank Management)  comes under?",  
+      "answer":" B.Com. (Bank Management) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+    {
+      "id":80,
+      "question":"What  shift does B.Com. (Marketing Management) comes under?",  
+      "answer":" B.Com. (Marketing Management) comes under the shift 2 it's a self financed Course and the timings will be 1.40PM to 6.40PM."
+    },
+    {
+      "id":81,
+      "question":"What  shift does B.A. (English) comes under?",  
+      "answer":" B.A. (English) comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":82,
+      "question":"What  shift does B.Sc. (Biotechnology) comes under?",  
+      "answer":" B.Sc. (Biotechnology)  comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":83,
+      "question":"What  shift does B.Sc. (Data Analytics) comes under?",  
+      "answer":"B.Sc. (Data Analytics) comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":84,
+      "question":"What  shift does B.Com. (Professional Accounting) comes under?",  
+      "answer":"B.Com. (Professional Accounting) comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":85,
+      "question":"What  shift does B. A. (Defence and Strategic studies) comes under?",  
+      "answer":"B. A. (Defence and Strategic studies) comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
+    },
+    {
+      "id":86,
+      "question":"What  shift does B.A. (Sociology) comes under?",  
+      "answer":"B.A. (Sociology) comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM."
     }
-    
   ]
