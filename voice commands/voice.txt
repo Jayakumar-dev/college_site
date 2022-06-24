@@ -82,7 +82,7 @@ question (
     "Fee of Information Technology",
     p=> {
         p.play({command:"gotoFaq", faqId: 10})
-        p.play('The fee Structure of B.Sc(Information Technology) is  fifty four thousand seventy five Rupees per semester the Fee Structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee Structure of B.Sc(Information Technology) is thirty two  thousand  five hundred Rupees per semester the Fee Structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -92,7 +92,7 @@ question (
     "Fee Structure of computer science",         
     p => {
         p.play ({command:"gotoFaq", faqId:11})
-        p.play('The fee Structure of B.Sc(Computer Science) is  fifty eight thousand seventy five Rupees per semester the Fee Structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee Structure of B.Sc(Computer Science) is  thirty seven thousand  five hundred Rupees per semester the Fee Structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -104,7 +104,7 @@ question (
    
     p => {
         p.play ({command:"gotoFaq", faqId:12})
-        p.play('The fee Structure of B.C.A is sixty thousand rupees per semester the Fee Structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee Structure of B.C.A is fourty thousand rupees per semester the Fee Structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -117,7 +117,7 @@ question (
     
     p => {
         p.play ({command:"gotoFaq", faqId:13})
-        p.play('The fee Structure of B.COM Information System Management is fifty three thousand seventy five rupees per semester the Fee Structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee Structure of B.COM Information System Management is thirty seven thousand four fifty rupees per semester the Fee Structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -454,7 +454,7 @@ question (
          "B.A Economics fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:43})
-        p.play('The fee Structure of B.A. (Economics) is  nineteen thousand four hundred thirty Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.A. (Economics) is  fourteen thousand two hundred fifty five Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -465,7 +465,7 @@ question (
          "B. A. Defence fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:44})
-        p.play('The fee Structure of B. A. (Defence and Strategic studies) is  nineteen thousand four hundred thirty Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B. A. (Defence and Strategic studies) is  fourteen thousand two hundred fifty five Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -476,7 +476,7 @@ question (
          "B.Sc. Mathematics fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:45})
-        p.play('The fee Structure of B.Sc (Mathematics) is  Twenty two thousand  eighty Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Sc (Mathematics) is  fifteen thousand  six hundred five Rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -487,7 +487,7 @@ question (
          "B.Sc Physics fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:46})
-        p.play('The fee Structure of B.Sc (Physics) is twenty two thousand six eighty rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Sc (Physics) is fifteen thousand seven hundred fifty five rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -499,7 +499,7 @@ question (
          "B.Sc Chemistry fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:47})
-        p.play('The fee Structure of B.Sc (Chemistry) is twenty two thousand six eighty rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Sc (Chemistry) is fifteen thousand eight hundred fifty five rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     } 
 
 )
@@ -510,7 +510,7 @@ question (
          "B.Sc Plant Biology & Plant Biotechnology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:48})
-        p.play('The fee Structure of B.Sc Plant Biology & Plant Biotechnology is twenty two thousand six thirthy rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Sc Plant Biology & Plant Biotechnology is fifteen thousand seven hundred fifty five rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -521,7 +521,7 @@ question (
          "B.Sc Advanced Zoology and Biotechnology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:49})
-        p.play('The fee Structure of B.Sc Advanced Zoology and Biotechnology is twenty two thousand six thirthy rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Sc Advanced Zoology and Biotechnology is fifteen thousand seven hundred fifty five rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -532,7 +532,7 @@ question (
          "B.Com General fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:50})
-        p.play('The fee Structure of B.Com General is twenty two thousand six thirthy rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee Structure of B.Com General is fifteen thousand eight hundred fifty five rupees per semester and the Fee Structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -543,7 +543,7 @@ question (
          "B.Com. Corporate Secretaryship fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:51})
-        p.play('The fee structure of B.Com Corporate Secretaryship is Twenty thousand six thirty rupees per semester and the fee structure includes Government fees, Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Com Corporate Secretaryship is thirty seven thousand four hundred rupees per semester and the fee structure includes Government fees, Examination fee & Skill Course fee')
     }
 
 )
@@ -554,7 +554,7 @@ question (
          " B.B.A fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:52})
-        p.play('The fee structure of B.B.A is fourty three thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.B.A is thirty seven thousand four hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -565,7 +565,7 @@ question (
          "B.Sc Visual Communication fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:53})
-        p.play('The fee structure of B.Sc (Visual Communication) is eighty three thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Sc (Visual Communication) is fourty seven thousand five hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -578,7 +578,7 @@ question (
          "B.Com General fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:54})
-        p.play('The fee structure of B.Com General is fifty three thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Com General is thirty nine  thousand nine hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -589,7 +589,7 @@ question (
          "B.Com Corporate Secretaryship fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:55})
-        p.play('The fee structure of B.Com Corporate Secretaryship is fifty three thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Com Corporate Secretaryship is thirty seven thousand four hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -600,7 +600,7 @@ question (
          "B.Com Accounting & Finance fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:56})
-        p.play('The fee structure of B.Com Accounting & Finance is fifty three thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Com Accounting & Finance is thirty nine thousand nine hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -611,7 +611,7 @@ question (
          "B.Com Honours fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:57})
-        p.play('The fee structure of B.Com Honours is sixty one thousand four twenty five rupees per semester and the fee structure includes  Examination fee & Skill Course fee')
+        p.play('The fee structure of B.Com Honours is fourty two thousand six hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee')
     }
 
 )
@@ -624,7 +624,7 @@ question (
          " B.Com Bank Management fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:58})
-        p.play('The fee structure of B.Com Bank Management is fourty six thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Com Bank Management is Twenty nine thousand nine hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -635,7 +635,7 @@ question (
          "B.Com Marketing Management fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:59})
-        p.play('The fee structure of B.Com Marketing Management is fourty six thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Com Marketing Management is Twenty nine thousand nine hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -646,7 +646,7 @@ question (
          "B.A English fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:60})
-        p.play('The fee structure of B.A. (English) is fourty thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.A. (English) is fourty thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -657,7 +657,7 @@ question (
          "B.Sc Biotechnology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:61})
-        p.play('The fee structure of B.Sc Biotechnology is thirty eight thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Sc Biotechnology is thirty eight thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -668,7 +668,7 @@ question (
          "B.Com Professional Accounting fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:62})
-        p.play('The fee structure of B.Com Professional Accounting  is sixty thousand rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Com Professional Accounting  is sixty thousand rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -679,7 +679,7 @@ question (
          "B. A Defence and Strategic studies fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:63})
-        p.play('The fee structure of B. A Defence and Strategic studies is thirty five thousand rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B. A Defence and Strategic studies is thirty five thousand rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -690,7 +690,7 @@ question (
          "B.A Sociology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:64})
-        p.play('The fee structure of B. A. (Sociology) is fourty thousand seventy five rupees per semester and the fee structure includes  Examination fee & Skill Course fee.')
+        p.play('The fee structure of B. A. (Sociology) is fourty thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
