@@ -646,7 +646,7 @@ question (
          "B.A English fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:60})
-        p.play('The fee structure of B.A. (English) is fourty thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.A. (English) is Twenty four thousand nine hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -657,7 +657,7 @@ question (
          "B.Sc Biotechnology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:61})
-        p.play('The fee structure of B.Sc Biotechnology is thirty eight thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Sc Biotechnology is Twenty seven thousand four hundred fifty rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -668,7 +668,7 @@ question (
          "B.Com Professional Accounting fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:62})
-        p.play('The fee structure of B.Com Professional Accounting  is sixty thousand rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of B.Com Professional Accounting  is fourty two thousand six hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -679,7 +679,7 @@ question (
          "B. A Defence and Strategic studies fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:63})
-        p.play('The fee structure of B. A Defence and Strategic studies is thirty five thousand rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of B. A Defence and Strategic studies is Twenty seven thousand four hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -690,7 +690,7 @@ question (
          "B.A Sociology fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:64})
-        p.play('The fee structure of B. A. (Sociology) is fourty thousand seventy five rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of B. A. (Sociology) is fourty thousand Twenty seven thousand four hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
@@ -916,6 +916,66 @@ question (
     p => {
         p.play ({command:"gotoFaq", faqId:86})
         p.play('B.A Sociology comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+    }
+
+)
+question (
+         "What is the fee structure of M.A. Economics ?",
+          "Fee Structure of  M.A. Economics",
+         "M.A. Economics fee Structure",
+    p => {
+        p.play ({command:"gotoFaq", faqId:62})
+        p.play('The fee structure of  M.A. Economics  is sixteen thousand five hundred eighty five rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
     }
 
 )
