@@ -955,7 +955,7 @@ question (
          "B.A. Political Science and Administration fee Structure",
     p => {
         p.play ({command:"gotoFaq", faqId:93})
-        p.play('The fee structure of  B.A. Political Science and Administration  is Twenty seven thousand four hundred rupees per semester and the fee structure includes Government fee, Examination fee & Skill Course fee.')
+        p.play('The fee structure of  B.A. Political Science and Administration  is Twenty seven thousand four hundred rupees per semester and the fee structure includes Tuition fee, Examination fee & Skill Course fee.')
     }
 
 )
