@@ -128,7 +128,7 @@ question (
          "Timings of ISM",
     p => {
         p.play ({command:"gotoFaq", faqId:14})
-        p.play('B.COM Information System Management comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.COM Information System Management comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -139,7 +139,7 @@ question (
          "Timings of computer science",
     p => {
         p.play ({command:"gotoFaq", faqId:15})
-        p.play ('B.S.C Computer Science comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play ('B.S.C Computer Science comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -150,7 +150,7 @@ question (
          "Timings of computer Application",
     p => {
         p.play ({command:"gotoFaq", faqId:16})
-        p.play('B.C.A comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.C.A comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -701,7 +701,7 @@ question (
          "Timings of Economics",
     p => {
         p.play ({command:"gotoFaq", faqId:65})
-        p.play('B.A Economics comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.A Economics comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -712,7 +712,7 @@ question (
          "Timings of Defence and Strategic studies",
     p => {
         p.play ({command:"gotoFaq", faqId:66})
-        p.play('B.A Defence and Strategic studies comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.A Defence and Strategic studies comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -723,7 +723,7 @@ question (
          "Timings of Mathematics",
     p => {
         p.play ({command:"gotoFaq", faqId:67})
-        p.play('B.Sc Mathematics comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Sc Mathematics comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -734,7 +734,7 @@ question (
          "Timings of Physics",
     p => {
         p.play ({command:"gotoFaq", faqId:68})
-        p.play('B.Sc Physics comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Sc Physics comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -745,7 +745,7 @@ question (
          "Timings of Chemistry",
     p => {
         p.play ({command:"gotoFaq", faqId:69})
-        p.play('B.Sc Chemistry comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Sc Chemistry comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -756,7 +756,7 @@ question (
          "Timings of Plant Biology & Plant Biotechnology",
     p => {
         p.play ({command:"gotoFaq", faqId:70})
-        p.play('B.Sc Plant Biology & Plant Biotechnology comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Sc Plant Biology & Plant Biotechnology comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -767,7 +767,7 @@ question (
          "Timings of Advanced Zoology and Biotechnology",
     p => {
         p.play ({command:"gotoFaq", faqId:71})
-        p.play('B.Sc Advanced Zoology and Biotechnology comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Sc Advanced Zoology and Biotechnology comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -778,7 +778,7 @@ question (
          "Timings of B.Com General shift 1",
     p => {
         p.play ({command:"gotoFaq", faqId:72})
-        p.play('B.Com General shift 1 comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Com General shift 1 comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -789,7 +789,7 @@ question (
          "Timings of Corporate Secretaryship",
     p => {
         p.play ({command:"gotoFaq", faqId:73})
-        p.play(' comes under the shift 1 its a AIDED Course and the timings will be 8.30AM to 1.30PM')
+        p.play(' comes under the shift 1 its a AIDED Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -800,7 +800,7 @@ question (
          "Timings of Balachor of business administration",
     p => {
         p.play ({command:"gotoFaq", faqId:74})
-        p.play('B.B.A comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.B.A comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -811,7 +811,7 @@ question (
          "Timings of Visual Communication",
     p => {
         p.play ({command:"gotoFaq", faqId:75})
-        p.play('B.Sc Visual Communication comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Sc Visual Communication comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -821,7 +821,7 @@ question (
          "Timings of Corporate Secretaryship",
     p => {
         p.play ({command:"gotoFaq", faqId:76})
-        p.play('B.Com Corporate Secretaryship comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Com Corporate Secretaryship comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -832,7 +832,7 @@ question (
          "Timings of Accounting & Finance",
     p => {
         p.play ({command:"gotoFaq", faqId:77})
-        p.play('B.Com Accounting & Finance comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Com Accounting & Finance comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -843,7 +843,7 @@ question (
          "Timings of Honours",
     p => {
         p.play ({command:"gotoFaq", faqId:78})
-        p.play('B.Com Honours comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Com Honours comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -854,7 +854,7 @@ question (
          "Timings of Bank Management",
     p => {
         p.play ({command:"gotoFaq", faqId:79})
-        p.play('B.Com Bank Management comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Com Bank Management comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -865,7 +865,7 @@ question (
          "Timings of Marketing Management",
     p => {
         p.play ({command:"gotoFaq", faqId:80})
-        p.play('B.Com Marketing Management comes under the shift 2 its a self financed Course and the timings will be 1.40PM to 6.40PM')
+        p.play('B.Com Marketing Management comes under the shift 2 its a self financed Course and the timings will be 1 40PM to 6 40PM')
     }
 
 )
@@ -875,7 +875,7 @@ question (
          "Timings of English",
     p => {
         p.play ({command:"gotoFaq", faqId:81})
-        p.play('B.A English comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.A English comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -885,7 +885,7 @@ question (
          "Timings of Data Analytics",
     p => {
         p.play ({command:"gotoFaq", faqId:83})
-        p.play(' B.Sc Data Analytics comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play(' B.Sc Data Analytics comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -895,7 +895,7 @@ question (
          "Timings of Professional Accounting",
     p => {
         p.play ({command:"gotoFaq", faqId:84})
-        p.play('B.Com Professional Accounting comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.Com Professional Accounting comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -905,7 +905,7 @@ question (
          "Timings of Defence and Strategic studies",
     p => {
         p.play ({command:"gotoFaq", faqId:85})
-        p.play('B A Defence and Strategic studies comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B A Defence and Strategic studies comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
@@ -915,7 +915,7 @@ question (
          "Timings of Sociology",
     p => {
         p.play ({command:"gotoFaq", faqId:86})
-        p.play('B.A Sociology comes under the shift 2 its a self financed Course and the timings will be 8.30AM to 1.30PM')
+        p.play('B.A Sociology comes under the shift 2 its a self financed Course and the timings will be 8 30AM to 1 30PM')
     }
 
 )
